@@ -1,3 +1,10 @@
-//I'm Using this File to do a time travel using git amend date command
-//idk what to do now..i did something that is related to creating a pull rqst and merging something that idk
-//this is the last day i am travelling...i swear
+git init: Initialize a new Git repository in the current directory.
+git clone: Clone an existing Git repository from a remote location to your local machine.
+git status: Check the status of your Git repository, including which files have been modified.
+git add: Add changes to your staging area to prepare for committing.
+git commit: Create a new commit with the changes in your staging area.
+git push: Push your committed changes to a remote repository.
+git pull: Pull changes from a remote repository to your local repository.
+git branch: Create a new branch in your Git repository.
+git checkout: Switch between different branches or commits in your Git repository.
+git merge: Merge changes from one branch into another.
