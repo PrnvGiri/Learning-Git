@@ -1,4 +1,11 @@
+To add a file to the repository
+1. Use the git add command followed by the name of the file you want to add. 
+2. Once you've added all the files you want to commit, use the git commit command to create a new commit with your changes.
+3. Finally, use the git push command to push your changes to the remote repository.
+
+For Example:
+git add index.html
+git commit -m "Add index.html file"
+git push
 
 
-HELLLOOWWWWWW AGAIN I DID A MISTAKE 
-yo
