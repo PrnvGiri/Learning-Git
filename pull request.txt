@@ -1,0 +1,5 @@
+git clone https://github.com/your-username/your-forked-repo.git
+git checkout -b new-branch-name
+git add .
+git commit -m "My changes"
+git push origin new-branch-name
