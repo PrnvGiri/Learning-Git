@@ -1,0 +1,6 @@
+step 1: git init
+step 2: add .
+step 3: commit -m "File-name"
+step 4: git commit --amend --date="2023-04-30 12:00:30"
+step 5: git pull --rebase origin master
+step 6: git push -u origin master
