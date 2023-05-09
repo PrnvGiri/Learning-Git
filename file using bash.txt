@@ -1,6 +1,6 @@
 Bash Code for creating a file and deleting a file:
 step 1: open bash in a directory in which you want to create a file using 
-        "cd <file-location>".
+        "cd <file-location>"
 step 2: "touch <filename>"
 step 3: to delete
         "rm <filename>"
