@@ -4,3 +4,5 @@ step 1: open bash in a directory in which you want to create a file using
 step 2: "touch <filename>"
 step 3: to delete
         "rm <filename>"
+step 4: you can directly create and open a file in a vscode by using code keyword
+        "code <filename>"
